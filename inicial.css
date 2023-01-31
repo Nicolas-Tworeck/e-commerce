@@ -1,0 +1,72 @@
+
+body {
+    margin: 0;
+    background: rgb(53, 53, 53);
+}
+
+.header {
+    margin:0;
+    padding: 10px;
+    background: rgb(150, 150, 150);
+}
+
+.navbar {
+    font-family: 'Hal', sans-serif;
+    font-size: 2em;
+    padding-bottom: 0px;
+    text-align: center;
+    letter-spacing: 5px;
+    color: rgba(70, 70, 70, 0.788);
+}
+
+h3 {
+    position: relative;
+    bottom: 40px;
+}
+button{
+    font-family:'Hal', sans-serif ;
+    cursor: pointer;
+    position: relative;
+    right: 9em;
+    bottom: 3.7em;
+    padding: 10px;
+    font-size: 1em;
+    background: transparent;
+    border: none;
+    color:rgba(70, 70, 70, 0.788) ;
+}
+button:active{
+    opacity: 0.6;
+}
+.marca-agua{
+    font-family:'Hal', sans-serif ;
+    font-size: 20em;
+    text-align: center;
+    color: rgba(80, 80, 80, 0.397);
+    margin-top: -1em;
+    margin-bottom: -1em;
+}
+.footer{
+    margin: 0;
+    padding: 5px;
+    background: black;
+    color: white;
+}
+.footer ul li{
+    position: relative;
+    top: 20px;
+    list-style-type: none;
+    padding: 10px;
+    cursor: pointer;
+}
+h4{
+    font-family: 'Hal', sans-serif;
+    letter-spacing: 3px;
+    font-size: 20px;
+    position: relative;
+    left: 90px;
+    bottom: 120px;
+    padding: 8px;
+    cursor: pointer;
+}
+
